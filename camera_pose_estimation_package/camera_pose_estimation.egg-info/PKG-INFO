@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: camera_pose_estimation
+Version: 0.0.0
+Summary: camera pose estimation package
+Author: Antoine
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-python
+Dynamic: summary
