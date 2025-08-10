@@ -1,0 +1,9 @@
+README.md
+setup.py
+camera_pose_estimation/__init__.py
+camera_pose_estimation/main.py
+camera_pose_estimation/projector.py
+camera_pose_estimation.egg-info/PKG-INFO
+camera_pose_estimation.egg-info/SOURCES.txt
+camera_pose_estimation.egg-info/dependency_links.txt
+camera_pose_estimation.egg-info/top_level.txt
